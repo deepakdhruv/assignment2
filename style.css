@@ -1,0 +1,36 @@
+*{
+    align-content: centre;
+    
+}
+nav{
+    
+    background:aqua;
+    height: 80px;
+    padding: 1%;
+
+
+  }
+  ul{
+    float:left;
+    
+  }
+  h3{
+    color:red
+  }
+  body{
+    overflow: scroll;
+  }
+  img{
+    float:left;
+    height: 200px;
+    margin: 30px
+  }
+  .k{
+    margin: 100px;
+    
+    border: 3px solid red;
+    border-radius: 20px;
+    height: 280px;
+    width: 900px;
+    overflow: scroll
+  }
